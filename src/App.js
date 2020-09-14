@@ -1,6 +1,10 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Slim from './slim';
+import Mohamed from "./mohamed"
+import Karim from "./Karim"
+
 
 function App() {
   return (
@@ -19,6 +23,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <Slim/>
+      <Karim/>
+      <Mohamed/>
     </div>
   );
 }

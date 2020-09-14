@@ -1,6 +1,6 @@
 import React from 'react'
 
-const slim = () => {
+const Slim = () => {
     return (
         <div>
             Hello Slim
@@ -8,4 +8,4 @@ const slim = () => {
     )
 }
 
-export default slim
+export default Slim
