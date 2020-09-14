@@ -1,9 +1,10 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Mohamed from './mohamed';
-import Slim from './Slim';
-import Karim from './karim';
+
+import Slim from './slim';
+import Mohamed from "./mohamed"
+import Karim from "./Karim"
 
 
 function App() {
@@ -23,9 +24,10 @@ function App() {
           Learn React
         </a>
       </header>
-      <Mohamed />
-      <Slim />
-      <Karim />
+
+      <Slim/>
+      <Karim/>
+      <Mohamed/>
     </div>
   );
 }
