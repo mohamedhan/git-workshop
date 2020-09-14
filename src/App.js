@@ -3,6 +3,9 @@ import "./App.css";
 import Karim from "./Karim";
 import Mohamed from "./mohamed";
 import Slim from "./slim";
+   
+
+
 
 function App() {
   return (
@@ -10,6 +13,7 @@ function App() {
       <Karim />
       <Slim />
       <Mohamed />
+
     </div>
   );
 }
