@@ -1,6 +1,6 @@
 import React from 'react'
 
-function mohamed() {
+function Mohamed() {
     return (
         <div>
             hello mohamed
@@ -8,4 +8,4 @@ function mohamed() {
     )
 }
 
-export default mohamed
+export default Mohamed
